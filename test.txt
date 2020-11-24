@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This file was created by host
 test
+=======
+vinh van le 
+>>>>>>> f75636cbb0c6f3320eff186705c04f5bc059b3d9
